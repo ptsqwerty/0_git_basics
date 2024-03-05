@@ -1,5 +1,5 @@
 #!/bin/bash
 # my test file
-data=$(date)
+data=$(data)
 echo $data
 
