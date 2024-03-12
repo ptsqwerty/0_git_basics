@@ -1,5 +1,6 @@
 #!/bin/bash
 # my test file
-data=$(data)
+# fix error
+data=$(date)
 echo $data
 
