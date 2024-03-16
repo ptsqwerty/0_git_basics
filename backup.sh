@@ -1,6 +1,3 @@
-#!/bin/bash
-# my test file
-# fix error
-data=$(date)
-echo $data
+read -p "enter something " text
 
+echo "you entered:" $text
